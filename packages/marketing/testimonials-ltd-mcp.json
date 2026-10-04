@@ -3,7 +3,7 @@
   "name": "Testimonials.ltd",
   "packageName": "@toolsdk-remote/testimonials-ltd",
   "description": "Manage your testimonials.ltd workspace from Claude: import reviews from Trustpilot, G2 or Google, approve and tag in bulk, and pin the best to widgets.",
-  "url": "https://github.com/ertiqah/testimonials-claude-plugin",
+  "url": "https://testimonials.ltd/integrations/claude",
   "readme": "https://testimonials.ltd/integrations/claude",
   "runtime": "node",
   "license": "MIT",
